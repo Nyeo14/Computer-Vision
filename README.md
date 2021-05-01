@@ -1,6 +1,6 @@
 # Computer-Vision
 
-These are a series of computer vision projects I completed for UCI's "Computational Photography and Computer Vision" course taught by Charless Fowlkes.
+These are a series of computer vision projects I completed for UCI's "Computational Photography and Computer Vision" course taught by Charless Fowlkes (Winter 2020-2021).
 
 ## Assignment 1: Demosaic <br>
 This assignment consisted of two main parts. The first part was layering many similar images on top of each other to create an "average" image. The second part consisted of creating a demosaic function which took in a raw image and returned a standard color image (use of for loops was restricted).
